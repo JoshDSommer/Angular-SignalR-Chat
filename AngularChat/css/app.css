@@ -1,0 +1,34 @@
+﻿.message-box{
+    width:200px;
+    list-style-type:none;
+    padding:0;
+}
+div.other-user.message {
+    background-color:#41d103;
+}
+div.sender.message {
+    background-color:#153fe2;
+}
+
+div.message{
+    width:200px;
+    display:inline-block;
+    margin-top:20px;
+    color:#fff;
+    padding:10px 5px;
+    font-size:12px;
+    border-radius:15px
+}
+div.sender{
+    display:inline-block;
+    width:200px;
+    text-align:right;
+    font-weight:700;
+}
+div.other-user {
+    display:inline-block;
+    width:200px;
+    font-weight:700;
+    text-align:left;
+    
+}
